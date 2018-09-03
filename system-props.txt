@@ -1,0 +1,2 @@
+<property name="kie.mbeans" value="enabled"/>
+
